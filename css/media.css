@@ -1,0 +1,22 @@
+@media screen and (max-width: 375px) {
+  .header__title {
+    font-size: 35px;
+    margin-bottom: 5px;
+  }
+  .header__subtitle {
+    font-size: 35px;
+    line-height: 50px;
+  }
+  .programm__inner {
+    flex-direction: column;
+  }
+  .programm__images img {
+    display: block;
+    width: 290px;
+    object-fit: cover;
+    margin: 0 auto;
+  }
+  .info__wrapper {
+    flex-direction: column-reverse;
+  }
+}
