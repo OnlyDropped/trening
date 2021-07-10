@@ -116,3 +116,33 @@
   font-size: 21px;
   line-height: 43px;
 }
+.footer__time {
+  display: flex;
+  justify-content: center;
+}
+.days,
+.hours,
+.minutes,
+.seconds {
+  font-size: 36px;
+  line-height: 60px;
+  font-weight: 600;
+}
+.footer__card {
+  text-align: center;
+  margin-right: 50px;
+}
+.footer__smalltext {
+  font-size: 20px;
+  line-height: 28px;
+}
+.footer {
+  padding: 15px 0;
+}
+.footer__title {
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 25px;
+  font-size: 20px;
+  line-height: 30px;
+}
