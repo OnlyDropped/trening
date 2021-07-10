@@ -19,4 +19,7 @@
   .info__wrapper {
     flex-direction: column-reverse;
   }
+  .footer__time {
+    flex-wrap: wrap;
+  }
 }
